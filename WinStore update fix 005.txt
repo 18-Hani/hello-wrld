@@ -1,0 +1,6 @@
+If a Windows 10 user is having any kind of trouble downloading, installing or updating applications from the Windows Store, resetting the Windows Store cache is a pretty sensible course of action, and this also holds true in the case of this problem. To reset your computer’s Windows Store cache, you need to:
+
+Press the Windows Logo key + R to open a Run
+Type wsreset.exe into the Run dialog and press Enter.
+Wait for the command to be executed and the Windows Store cache to be reset.
+Restart your computer, and when it boots up, check to see whether or not the problem has been resolved.
